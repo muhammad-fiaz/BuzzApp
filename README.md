@@ -4,7 +4,13 @@ BuzzApp is an open-source Flutter shopping app for mobile devices. It provides u
 
 **Please note that this project is a work in progress, and certain features may be incomplete or subject to changes. If you want to contribute, make sure to fork the project and star 🌟 the repository.**
 
+![preview](https://github.com/muhammad-fiaz/BuzzApp/assets/75434191/6395c735-1c5b-425e-a131-affc1f7023e7)
+
+**Note: This Flutter Template Contains Placeholder Content for Demo Purposes. **
+
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
@@ -22,7 +28,9 @@ samples, guidance on mobile development, and a full API reference.
 <div align="center">
 
 <h5> <strong> 💰 You can help this improve more by offering a little support❤️</strong></h5>
+
 [![Sponsor muhammad-fiaz](https://img.shields.io/badge/Sponsor-%231EAEDB.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/muhammad-fiaz)
+
 </div>
 
 ## Happy Shopping! 🛍️
